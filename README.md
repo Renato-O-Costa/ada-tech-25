@@ -7,3 +7,4 @@
 2. Comando git pull
 3. Comando git fetch
     * Comandos usados para envio e recebimento das alterações no código.
+    * _Praticar_ é o caminho para __aprender.__
