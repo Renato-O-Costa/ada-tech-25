@@ -1,6 +1,7 @@
-# ada-tech-25
-Testes repositório
+# Ada Tech 25
+## Testes repositório
 
-##Alterando o README.md
-*Comando git push
-*Comando git pull
+**Alterando** o README.md
+
+1. Comando git push
+2. Comando git pull
