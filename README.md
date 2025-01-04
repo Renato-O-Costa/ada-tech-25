@@ -5,3 +5,4 @@
 
 1. Comando git push
 2. Comando git pull
+3. Comando git fetch
