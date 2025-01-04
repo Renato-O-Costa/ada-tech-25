@@ -6,3 +6,4 @@
 1. Comando git push
 2. Comando git pull
 3. Comando git fetch
+    * Comandos usados para envio e recebimento das alterações no código.
